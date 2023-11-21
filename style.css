@@ -1,0 +1,33 @@
+.form-row {
+  display: flex;
+  gap: 50px;
+}
+.form-control {
+  width: 90%;
+}
+i {
+  margin-right: 5px;
+}
+.text-right {
+  text-align: right;
+}
+table {
+  display: flex;
+
+  width: 100%;
+  margin-bottom: 1rem;
+  vertical-align: top;
+  align-items: center;
+}
+tr {
+  display: flex;
+  align-items: center;
+  gap: 350px;
+  padding: 0 20px;
+  padding-top: 8px;
+}
+
+tbody {
+  display: flex;
+  flex-direction: column;
+}
